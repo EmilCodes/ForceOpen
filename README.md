@@ -1,8 +1,8 @@
 # forceopen
-removes the ?forcedownload=1 from URLs.
+removes ?forcedownload=1 from URLs.
 
 Originally designed and currently works for the domains listed below:
 
-moodle.org 
+* moodle.org 
 
-technion.ac.il
+* technion.ac.il
