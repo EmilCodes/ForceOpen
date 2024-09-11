@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "regexSubstitution": "\\1"
+      }
+    },
+    "condition": {
+      "regexFilter": "(.*)\\?forcedownload=1",
+      "resourceTypes": ["main_frame", "sub_frame"],
+      "domains": ["moodle.org", "technion.ac.il"]
+    }
+  }
+]
