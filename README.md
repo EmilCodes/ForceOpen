@@ -1,5 +1,5 @@
 # ForceOpen
-A chrome extension that allows to view files inside the browser instead of forcing explicit download.
+A chrome extension that allows viewing files inside the browser instead of forcing explicit download.
 
 Currently works for the domains listed below:
 
